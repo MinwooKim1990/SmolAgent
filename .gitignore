@@ -1,3 +1,7 @@
 .env
 config.toml
 .env
+# 캐시 파일 무시하기
+Story_game/cache/
+Story_game/cache_norm/
+Story_game/__pycache__/
